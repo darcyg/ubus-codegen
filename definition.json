@@ -1,0 +1,11 @@
+{ 
+	"netifd.interface": {
+		"methods": {
+			"up": {}, 
+			"down": {}
+		}, 
+		"events": {
+			"up": { "interface": "string" }
+		}
+	}
+}
